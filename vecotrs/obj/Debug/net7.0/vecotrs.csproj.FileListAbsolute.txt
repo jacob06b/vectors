@@ -1,0 +1,15 @@
+/Users/jacobbramwell/Projects/vecotrs/bin/Debug/net7.0/vecotrs
+/Users/jacobbramwell/Projects/vecotrs/bin/Debug/net7.0/vecotrs.deps.json
+/Users/jacobbramwell/Projects/vecotrs/bin/Debug/net7.0/vecotrs.runtimeconfig.json
+/Users/jacobbramwell/Projects/vecotrs/bin/Debug/net7.0/vecotrs.dll
+/Users/jacobbramwell/Projects/vecotrs/bin/Debug/net7.0/vecotrs.pdb
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.csproj.AssemblyReference.cache
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.AssemblyInfoInputs.cache
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.AssemblyInfo.cs
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.csproj.CoreCompileInputs.cache
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.dll
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/refint/vecotrs.dll
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.pdb
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/vecotrs.genruntimeconfig.cache
+/Users/jacobbramwell/Projects/vecotrs/obj/Debug/net7.0/ref/vecotrs.dll
